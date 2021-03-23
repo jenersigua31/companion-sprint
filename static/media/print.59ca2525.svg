@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g transform="translate(-600 -415) translate(201 257) translate(70 70) translate(265 74) translate(15.098 12) translate(49 2) translate(.008)">
+                                    <rect width="8.941" height="8" x="4.471" fill="#FFF" stroke="#0086D6" stroke-width="1.5" rx="1"/>
+                                    <rect width="17.882" height="10" y="3" fill="#FFF" stroke="#0086D6" stroke-width="1.5" rx="1"/>
+                                    <rect width="8.941" height="7" x="4.471" y="10" fill="#FFF" stroke="#0086D6" stroke-width="1.5" rx="1"/>
+                                    <ellipse cx="3.353" cy="6" fill="#0086D6" rx="1.118" ry="1"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

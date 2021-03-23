@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[95],{122:function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/delivery-summary-pair1.d1f561f8.png"}}]);
+//# sourceMappingURL=95.c5e405ea.chunk.js.map

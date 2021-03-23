@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="143" viewBox="0 0 116 143" fill="#0386D6">
+    <defs>
+        <path id="t631w4ip9b" d="M0.23 1.369L62.142 1.369 62.142 62.795 0.23 62.795z" fill="#0386D6"/>
+        <path id="xs7co7sc2d" d="M0 1.211L115.408 1.211 115.408 62.46 0 62.46z"/>
+        <filter id="jnz0ks8t8a">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.000000 0 0 0 0 0.525490 0 0 0 0 0.839216 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="#0386D6" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-228 -194) translate(35 132) translate(130 62) translate(50)">
+                        <g>
+                            <g transform="translate(13) translate(26.514 .275)">
+                                <mask id="ounkqe491c" fill="#fff">
+                                    <use xlink:href="#t631w4ip9b"/>
+                                </mask>
+                                <path fill="#0386D6" d="M62.142 32.07c0 16.977-13.852 30.725-30.952 30.725C14.084 62.795.23 49.047.23 32.069c0-16.958 13.852-30.7 30.96-30.7 17.099.001 30.952 13.742 30.952 30.7" />
+                            </g>
+                            <g transform="translate(13) translate(0 79.172)">
+                                <mask id="n8qyogcaqe" fill="#0386D6">
+                                    <use xlink:href="#xs7co7sc2d"/>
+                                </mask>
+                                <path fill="#0386D6" d="M115.409 48.878c0 18.11-115.409 18.11-115.409 0C0 21.716 25.825 1.21 57.704 1.21c31.888 0 57.705 20.505 57.705 47.667" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
