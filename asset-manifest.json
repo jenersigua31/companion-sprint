@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cd703b7.chunk.css",
-    "main.js": "/static/js/main.37595921.chunk.js",
-    "main.js.map": "/static/js/main.37595921.chunk.js.map",
+    "main.css": "/static/css/main.64d91c25.chunk.css",
+    "main.js": "/static/js/main.06a26f5b.chunk.js",
+    "main.js.map": "/static/js/main.06a26f5b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b0657432.js",
     "runtime-main.js.map": "/static/js/runtime-main.b0657432.js.map",
     "static/js/2.5a590bd1.chunk.js": "/static/js/2.5a590bd1.chunk.js",
@@ -276,7 +276,7 @@
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.1cd703b7.chunk.css.map": "/static/css/main.1cd703b7.chunk.css.map",
+    "static/css/main.64d91c25.chunk.css.map": "/static/css/main.64d91c25.chunk.css.map",
     "static/js/2.5a590bd1.chunk.js.LICENSE.txt": "/static/js/2.5a590bd1.chunk.js.LICENSE.txt",
     "static/media/AkhandSoft-Bold.otf": "/static/media/AkhandSoft-Bold.7ca67983.otf",
     "static/media/UV.svg": "/static/media/UV.66cbb9af.svg",
@@ -399,7 +399,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0657432.js",
     "static/js/2.5a590bd1.chunk.js",
-    "static/css/main.1cd703b7.chunk.css",
-    "static/js/main.37595921.chunk.js"
+    "static/css/main.64d91c25.chunk.css",
+    "static/js/main.06a26f5b.chunk.js"
   ]
 }
