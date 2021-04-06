@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[195],{226:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/wind.931ed0d6.png"}}]);
-//# sourceMappingURL=195.ae629625.chunk.js.map
