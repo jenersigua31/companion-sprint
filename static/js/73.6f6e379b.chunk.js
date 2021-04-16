@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[73],{509:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/prescription.aebedb13.svg"}}]);
+//# sourceMappingURL=73.6f6e379b.chunk.js.map
