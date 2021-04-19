@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[87],{525:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/settings-white.bd2a6172.svg"}}]);
+//# sourceMappingURL=87.5df22507.chunk.js.map

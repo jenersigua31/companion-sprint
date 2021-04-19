@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[20],{456:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/down-arrow.0e7280a6.svg"}}]);
-//# sourceMappingURL=20.2bf77d66.chunk.js.map
