@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[66],{504:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/phone.36899537.svg"}}]);
-//# sourceMappingURL=66.09f3faf1.chunk.js.map

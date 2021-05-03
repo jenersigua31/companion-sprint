@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[113],{141:function(p,s,t){"use strict";t.r(s),s.default=t.p+"static/media/04_plan_logo2-min.95cad9f2.png"}}]);
-//# sourceMappingURL=113.13ee5f63.chunk.js.map

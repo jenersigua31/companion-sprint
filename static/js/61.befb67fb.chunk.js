@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[61],{499:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/monitor.26ba0061.svg"}}]);
-//# sourceMappingURL=61.befb67fb.chunk.js.map
