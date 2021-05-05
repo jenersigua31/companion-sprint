@@ -1,2 +1,0 @@
-(this["webpackJsonpessilor-companion-web-mobile"]=this["webpackJsonpessilor-companion-web-mobile"]||[]).push([[14],{44:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/wind.931ed0d6.png"}}]);
-//# sourceMappingURL=14.4a5edc8f.chunk.js.map
