@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 49" width="63" height="49"><script xmlns="" id="tinyhippos-injected"/>
+	<defs>
+		<image width="63" height="49" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAxCAMAAABai4GdAAAAAXNSR0IB2cksfwAAAGZQTFRF////4fH7MJ3eDIzYEo/ZgMPrh8fsAIbWBIjX/P7/f8Pr+f3/ecDq8/r+BYnXBonXaLjn0On4jMntCIrY/f//7ff9U67kL53eNaDfntHw/v//9Pr+1+35GZLbKZrds9vzDY3ZQqbhZohCnQAAAHdJREFUeJzt1bcOgDAMRVF6Qu+9//9PIjGCI72IAYF89zPElhzD4Lgz07KxHJf0nkCTPuUD2ItQ4aMYKFH7AJlTyp49+z/6LAeSav/ofhUwLyvK102L1fXImN5tuBztUY9P83VmS63jiV2sOv72l257rPcCjvtABxx7FdCGZ25LAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

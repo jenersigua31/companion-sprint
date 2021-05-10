@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[66],{820:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/pencil-white.583b5020.svg"}}]);
+//# sourceMappingURL=66.a2449c7f.chunk.js.map
