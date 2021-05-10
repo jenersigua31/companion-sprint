@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[311],{615:function(p,s,t){"use strict";t.r(s),s.default=t.p+"static/media/xperio_T_herbal.40e91351.png"}}]);
+//# sourceMappingURL=311.4f597418.chunk.js.map

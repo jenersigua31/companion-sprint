@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[360],{655:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/yoga.5960e584.png"}}]);
-//# sourceMappingURL=360.7377a8dc.chunk.js.map
