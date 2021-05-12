@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[297],{601:function(p,s,t){"use strict";t.r(s),s.default=t.p+"static/media/xperio_M_ocean blue.33bbd516.png"}}]);
-//# sourceMappingURL=297.585689b1.chunk.js.map

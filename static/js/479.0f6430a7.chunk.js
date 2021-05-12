@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[479],{783:function(t,s,p){"use strict";p.r(s),s.default=p.p+"static/media/scratch-white.02341bfc.png"}}]);
-//# sourceMappingURL=479.0f6430a7.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[299],{603:function(p,a,s){"use strict";s.r(a),a.default=s.p+"static/media/xperio_M_parma.916b8eab.png"}}]);
-//# sourceMappingURL=299.358a0c4e.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[287],{591:function(s,p,t){"use strict";t.r(p),p.default=t.p+"static/media/xperio_M_bronze shadow.dc0fbc87.png"}}]);
-//# sourceMappingURL=287.ba451705.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[308],{612:function(p,s,t){"use strict";t.r(s),s.default=t.p+"static/media/xperio_T_burgundy.5c44dfc1.png"}}]);
-//# sourceMappingURL=308.72c86228.chunk.js.map

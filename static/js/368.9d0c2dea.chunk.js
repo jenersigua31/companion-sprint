@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[368],{672:function(s,e,t){"use strict";t.r(e),e.default=t.p+"static/media/AVA_Overlay_Clear_Lens00146.601ee414.png"}}]);
-//# sourceMappingURL=368.9d0c2dea.chunk.js.map

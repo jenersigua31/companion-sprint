@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[61],{850:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/minus-circle-small.e9a324d3.svg"}}]);
-//# sourceMappingURL=61.7d598a2c.chunk.js.map
