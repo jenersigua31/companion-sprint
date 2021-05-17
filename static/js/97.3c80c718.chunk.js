@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[97],{892:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/sun-low.78d2fb98.svg"}}]);
-//# sourceMappingURL=97.3c80c718.chunk.js.map

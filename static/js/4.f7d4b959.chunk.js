@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[4],{479:function(t,s,a){"use strict";a.r(s),s.default=a.p+"static/media/AkhandSoft-Bold.7ca67983.otf"}}]);
+//# sourceMappingURL=4.f7d4b959.chunk.js.map

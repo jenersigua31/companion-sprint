@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[384],{718:function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/headaches.6aaf98f9.png"}}]);
-//# sourceMappingURL=384.9688b346.chunk.js.map

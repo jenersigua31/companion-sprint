@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[89],{885:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/secondpair-lens.42af2f23.svg"}}]);
+//# sourceMappingURL=89.789d3b5c.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonppwa-ts"]=this["webpackJsonppwa-ts"]||[]).push([[23],{818:function(s,t,p){"use strict";p.r(t),t.default=p.p+"static/media/dropbox.385fe344.svg"}}]);
-//# sourceMappingURL=23.b4cbaeda.chunk.js.map
